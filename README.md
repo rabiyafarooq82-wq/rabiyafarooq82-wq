@@ -1,4 +1,4 @@
-<h1 align="center">Rabiya Farooq </h1>
+<h1 align="center">Rabiya Farooq</h1>
 
 <p align="center">CS Student | Karachi, PK</p>
 
